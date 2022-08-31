@@ -1,1 +1,1 @@
-command to least working path
+shell basics
